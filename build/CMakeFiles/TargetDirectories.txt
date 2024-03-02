@@ -1,0 +1,4 @@
+/Users/kekoveca/Documents/Proga/sort_visualization/build/CMakeFiles/sortLib.dir
+/Users/kekoveca/Documents/Proga/sort_visualization/build/CMakeFiles/main.dir
+/Users/kekoveca/Documents/Proga/sort_visualization/build/CMakeFiles/edit_cache.dir
+/Users/kekoveca/Documents/Proga/sort_visualization/build/CMakeFiles/rebuild_cache.dir
